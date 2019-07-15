@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWechat", "TestWechat\TestWechat.csproj", "{FA37BCC7-A573-43A2-959F-50D15B45AF30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wechat.CommonService", "Wechat.CommonService\Wechat.CommonService.csproj", "{233B244A-52CB-490C-90D5-332E4535D1F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XYFramework.Weixin.MP", "XYFramework.Weixin.MP\XYFramework.Weixin.MP.csproj", "{EDFC3C9B-2224-4CD3-8DE5-FE89C5C84934}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{FA37BCC7-A573-43A2-959F-50D15B45AF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA37BCC7-A573-43A2-959F-50D15B45AF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA37BCC7-A573-43A2-959F-50D15B45AF30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{233B244A-52CB-490C-90D5-332E4535D1F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233B244A-52CB-490C-90D5-332E4535D1F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233B244A-52CB-490C-90D5-332E4535D1F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233B244A-52CB-490C-90D5-332E4535D1F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDFC3C9B-2224-4CD3-8DE5-FE89C5C84934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFC3C9B-2224-4CD3-8DE5-FE89C5C84934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFC3C9B-2224-4CD3-8DE5-FE89C5C84934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFC3C9B-2224-4CD3-8DE5-FE89C5C84934}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
