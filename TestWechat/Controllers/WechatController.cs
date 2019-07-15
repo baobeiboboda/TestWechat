@@ -8,7 +8,7 @@ namespace TestWechat.Controllers
 {
     public class WechatController : Controller
     {
-        // GET: Wechat
+        
         public ActionResult Index()
         {
             return Content("123");
